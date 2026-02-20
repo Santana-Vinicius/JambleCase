@@ -1,0 +1,62 @@
+{
+  "reviews": [
+    {
+      "id": "review_001",
+      "userId": "user_001",
+      "avatar": "avatar-01",
+      "username": "Alex Chen",
+      "rating": 5,
+      "text": "Amazing content creator! Sarah's streams are always engaging and entertaining. Highly recommend!",
+      "createdAt": "2024-02-15T10:30:00Z"
+    },
+    {
+      "id": "review_002",
+      "userId": "user_001",
+      "avatar": "avatar-02",
+      "username": "Maria Garcia",
+      "rating": 5,
+      "text": "Best tech reviews on the platform. Very thorough and honest.",
+      "createdAt": "2024-02-14T15:45:00Z"
+    },
+    {
+      "id": "review_003",
+      "userId": "user_001",
+      "avatar": "avatar-03",
+      "username": "James Wilson",
+      "rating": 4,
+      "text": "Great content! Would love to see more gaming streams.",
+      "createdAt": "2024-02-13T09:20:00Z"
+    },
+    {
+      "id": "review_004",
+      "userId": "user_001",
+      "avatar": "avatar-04",
+      "username": "Emma Davis",
+      "rating": 5,
+      "text": null,
+      "createdAt": "2024-02-12T18:00:00Z"
+    },
+    {
+      "id": "review_005",
+      "userId": "user_001",
+      "avatar": "avatar-01",
+      "username": "Michael Brown",
+      "rating": 5,
+      "text": "Consistently high-quality streams. The Q&A sessions are my favorite!",
+      "createdAt": "2024-02-11T14:30:00Z"
+    },
+    {
+      "id": "review_006",
+      "userId": "user_001",
+      "avatar": "avatar-01",
+      "username": "Sophie Taylor",
+      "rating": 4,
+      "text": "Very informative and entertaining. Keep up the great work!",
+      "createdAt": "2024-02-10T11:15:00Z"
+    }
+  ],
+  "metadata": {
+    "averageRating": 4.8,
+    "totalCount": 1234
+  }
+}

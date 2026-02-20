@@ -1,0 +1,22 @@
+{
+  "lives": [
+    {
+      "id": "live_s2_001",
+      "coverImage": "live-cover-03",
+      "title": "My First Live: Vintage Finds Haul",
+      "status": "scheduled",
+      "viewerCount": 0,
+      "scheduledTime": "2026-03-01T19:00:00Z",
+      "likes": 12
+    },
+    {
+      "id": "live_s2_002",
+      "coverImage": "live-cover-06",
+      "title": "Closet Clear-Out Sale",
+      "status": "scheduled",
+      "viewerCount": 0,
+      "scheduledTime": "2026-03-05T21:00:00Z",
+      "likes": 3
+    }
+  ]
+}

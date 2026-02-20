@@ -1,0 +1,20 @@
+{
+  "id": "user_003",
+  "name": "Felipe Sanchez",
+  "username": "felipe_shop",
+  "imageUrl": "avatar-01",
+  "bio": "",
+  "joinedDate": "2024-06-01T00:00:00Z",
+  "stats": {
+    "shippingDays": 5.2,
+    "rating": 4.8,
+    "ratingCount": 112,
+    "followers": 1600,
+    "referrals": 99
+  },
+  "badge": {
+    "type": "Live Seller",
+    "iconName": "icon-seller-badge",
+    "color": "#172233"
+  }
+}

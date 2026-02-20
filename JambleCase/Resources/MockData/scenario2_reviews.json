@@ -1,0 +1,35 @@
+{
+  "reviews": [
+    {
+      "id": "review_s2_001",
+      "userId": "user_002",
+      "avatar": "avatar-03",
+      "username": "Carlos Ribeiro",
+      "rating": 4,
+      "text": "Good packaging, item arrived as described. Shipping took a bit long though.",
+      "createdAt": "2025-12-10T14:20:00Z"
+    },
+    {
+      "id": "review_s2_002",
+      "userId": "user_002",
+      "avatar": "avatar-04",
+      "username": "Ana Beatriz",
+      "rating": 2,
+      "text": "Item was okay but not exactly as pictured. Communication could be better.",
+      "createdAt": "2025-12-05T09:45:00Z"
+    },
+    {
+      "id": "review_s2_003",
+      "userId": "user_002",
+      "avatar": "avatar-01",
+      "username": "Pedro Lima",
+      "rating": 4,
+      "text": null,
+      "createdAt": "2025-11-28T16:30:00Z"
+    }
+  ],
+  "metadata": {
+    "averageRating": 3.2,
+    "totalCount": 5
+  }
+}

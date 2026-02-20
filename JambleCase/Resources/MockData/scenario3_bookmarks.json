@@ -1,0 +1,22 @@
+{
+  "bookmarks": [
+    {
+      "id": "bookmark_s3_001",
+      "coverImage": "live-cover-01",
+      "title": "Relaxing Morning Stream",
+      "status": "live",
+      "viewerCount": 987,
+      "scheduledTime": null,
+      "likes": 321
+    },
+    {
+      "id": "bookmark_s3_002",
+      "coverImage": "live-cover-05",
+      "title": "Subscriber Meetup & Giveaway",
+      "status": "scheduled",
+      "viewerCount": 0,
+      "scheduledTime": "2024-02-22T20:00:00Z",
+      "likes": 567
+    }
+  ]
+}

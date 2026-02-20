@@ -1,0 +1,35 @@
+{
+  "reviews": [
+    {
+      "id": "review_s3_001",
+      "userId": "user_003",
+      "avatar": "avatar-03",
+      "username": "Carlos Ribeiro",
+      "rating": 5,
+      "text": "Amazing seller! Fast shipping and great communication.",
+      "createdAt": "2025-12-10T14:20:00Z"
+    },
+    {
+      "id": "review_s3_002",
+      "userId": "user_003",
+      "avatar": "avatar-04",
+      "username": "Ana Beatriz",
+      "rating": 4,
+      "text": "Good quality items, exactly as described. Would buy again!",
+      "createdAt": "2025-12-05T09:45:00Z"
+    },
+    {
+      "id": "review_s3_003",
+      "userId": "user_003",
+      "avatar": "avatar-02",
+      "username": "Pedro Lima",
+      "rating": 5,
+      "text": null,
+      "createdAt": "2025-11-28T16:30:00Z"
+    }
+  ],
+  "metadata": {
+    "averageRating": 4.8,
+    "totalCount": 112
+  }
+}

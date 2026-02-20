@@ -1,0 +1,49 @@
+{
+  "bookmarks": [
+    {
+      "id": "bookmark_001",
+      "coverImage": "live-cover-03",
+      "title": "Epic Gaming Moments Compilation",
+      "status": "live",
+      "viewerCount": 3421,
+      "scheduledTime": null,
+      "likes": 1523
+    },
+    {
+      "id": "bookmark_002",
+      "coverImage": "live-cover-05",
+      "title": "Best Tech Tips of 2024",
+      "status": "scheduled",
+      "viewerCount": 0,
+      "scheduledTime": "2024-02-25T14:00:00Z",
+      "likes": 892
+    },
+    {
+      "id": "bookmark_003",
+      "coverImage": "live-cover-02",
+      "title": "Community Q&A Highlights",
+      "status": "live",
+      "viewerCount": 1876,
+      "scheduledTime": null,
+      "likes": 654
+    },
+    {
+      "id": "bookmark_004",
+      "coverImage": "live-cover-04",
+      "title": "Unboxing & First Impressions",
+      "status": "scheduled",
+      "viewerCount": 0,
+      "scheduledTime": "2024-02-26T17:00:00Z",
+      "likes": 432
+    },
+    {
+      "id": "bookmark_005",
+      "coverImage": "live-cover-01",
+      "title": "Relaxing Morning Stream",
+      "status": "live",
+      "viewerCount": 987,
+      "scheduledTime": null,
+      "likes": 321
+    }
+  ]
+}

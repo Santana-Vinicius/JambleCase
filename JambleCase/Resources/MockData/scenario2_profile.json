@@ -1,0 +1,20 @@
+{
+  "id": "user_002",
+  "name": "Lena Moreira",
+  "username": "lena_vintage",
+  "imageUrl": "avatar-02",
+  "bio": "",
+  "joinedDate": "2025-11-15T00:00:00Z",
+  "stats": {
+    "shippingDays": 8.7,
+    "rating": 3.2,
+    "ratingCount": 5,
+    "followers": 45,
+    "referrals": 2
+  },
+  "badge": {
+    "type": "New Seller",
+    "iconName": "icon-seller-badge",
+    "color": "#6B7B93"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "lives": [
+    {
+      "id": "live_001",
+      "coverImage": "live-cover-01",
+      "title": "Morning Coffee Chat & Tech News",
+      "status": "live",
+      "viewerCount": 1234,
+      "scheduledTime": null,
+      "likes": 456
+    },
+    {
+      "id": "live_002",
+      "coverImage": "live-cover-02",
+      "title": "Evening Q&A Session",
+      "status": "scheduled",
+      "viewerCount": 0,
+      "scheduledTime": "2024-02-20T18:00:00Z",
+      "likes": 89
+    },
+    {
+      "id": "live_003",
+      "coverImage": "live-cover-03",
+      "title": "Gaming Marathon: Part 2",
+      "status": "live",
+      "viewerCount": 2341,
+      "scheduledTime": null,
+      "likes": 892
+    },
+    {
+      "id": "live_004",
+      "coverImage": "live-cover-04",
+      "title": "Product Review: Latest Tech Gadgets",
+      "status": "scheduled",
+      "viewerCount": 0,
+      "scheduledTime": "2024-02-21T15:00:00Z",
+      "likes": 234
+    },
+    {
+      "id": "live_005",
+      "coverImage": "live-cover-05",
+      "title": "Subscriber Meetup & Giveaway",
+      "status": "scheduled",
+      "viewerCount": 0,
+      "scheduledTime": "2024-02-22T20:00:00Z",
+      "likes": 567
+    },
+    {
+      "id": "live_006",
+      "coverImage": "live-cover-06",
+      "title": "Behind The Scenes: Setup Tour",
+      "status": "live",
+      "viewerCount": 789,
+      "scheduledTime": null,
+      "likes": 321
+    },
+    {
+      "id": "live_007",
+      "coverImage": "live-cover-07",
+      "title": "Weekly Highlights & Recap",
+      "status": "scheduled",
+      "viewerCount": 0,
+      "scheduledTime": "2024-02-23T16:30:00Z",
+      "likes": 145
+    }
+  ]
+}
